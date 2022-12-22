@@ -8,6 +8,8 @@ spec:
 
   source:
     repoURL: https://github.com/sunilkumarkommu/CD.git
+      password: Chinna@0463
+      username: kommusunilkumar
     targetRevision: HEAD
     path: dev
   destination: 
