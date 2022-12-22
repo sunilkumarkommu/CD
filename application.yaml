@@ -9,8 +9,6 @@ spec:
   source:
     repoURL: https://github.com/sunilkumarkommu/CD.git
     passwordSecret:
-      name: my-private-repo
-      key: sshPrivateKey
     targetRevision: HEAD
     path: dev
   destination: 
